@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Listening6/Listening6.iml" filepath="$PROJECT_DIR$/Listening6/Listening6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listening7/Listening7.iml" filepath="$PROJECT_DIR$/Listening7/Listening7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit1/Src/SRC.iml" filepath="$PROJECT_DIR$/Unit1/Src/SRC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit1/SecondProgramm/SecondProgramm.iml" filepath="$PROJECT_DIR$/Unit1/SecondProgramm/SecondProgramm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Unit1/ThirdProgramm/ThirdProgramm.iml" filepath="$PROJECT_DIR$/Unit1/ThirdProgramm/ThirdProgramm.iml" />
